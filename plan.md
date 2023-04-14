@@ -57,6 +57,12 @@
 1. Показательные уравнения и неравенства.
 1. Логарифмические уравнения и неравенства.
 
+## Lesson 12
+### date: April 14, 2023
+Учебник можно скачать [здесь](https://file.11klasov.net/9609-algebra-i-nachala-matematicheskogo-analiza-uchebnik-dlja-10-11-klassov-kolmogorov-an-i-dr.html)
+1. Графики тригонометрических функций
+1. График показательной функции
+
 # Physics
 
 ## Lesson 8
