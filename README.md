@@ -1,4 +1,9 @@
+<details>
+<summary>
+
 # Mathematics
+
+</summary>
 
 ## Lesson 1
 ### date: March 14, 2023 
@@ -100,7 +105,13 @@
 1. Решение задач на вычисление производной функции по сборнику задач Демидовича.
 
 
+</details>
+<details>
+<summary>
+
 # Physics
+
+</summary>
 
 ## Lesson 8
 ### date: April 3, 2023
@@ -130,3 +141,5 @@
 1. Закон Ома.
 1. Закон Джоуля - Ленца.
 1. Теплота. Теплоёмкость.
+
+</details>
